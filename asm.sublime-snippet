@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+asm
+]]></content>
+	<tabTrigger>asm</tabTrigger>
+	<scope>source.c++</scope>
+</snippet>

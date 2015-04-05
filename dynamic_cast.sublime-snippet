@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+dynamic_cast<${1}>(${2})
+]]></content>
+	<tabTrigger>dynamic_cast</tabTrigger>
+	<scope>source.c++</scope>
+</snippet>

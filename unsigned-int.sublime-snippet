@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+unsigned int
+]]></content>
+	<tabTrigger>unsigned int</tabTrigger>
+	<scope>source.c++</scope>
+</snippet>

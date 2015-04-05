@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+union ${1}
+{
+	${2}
+}; // ${1}
+]]></content>
+	<tabTrigger>union</tabTrigger>
+	<scope>source.c++</scope>
+</snippet>

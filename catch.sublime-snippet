@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+catch(${1})
+{
+	${2}
+}
+]]></content>
+	<tabTrigger>catch</tabTrigger>
+	<scope>source.c++</scope>
+</snippet>

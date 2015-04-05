@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+sizeof(${1})
+]]></content>
+	<tabTrigger>sizeof</tabTrigger>
+	<scope>source.c++</scope>
+</snippet>

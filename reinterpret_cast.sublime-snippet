@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+reinterpret_cast<${1}>(${2})
+]]></content>
+	<tabTrigger>reinterpret_cast</tabTrigger>
+	<scope>source.c++</scope>
+</snippet>

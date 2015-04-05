@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+using namespace
+]]></content>
+	<tabTrigger>using namespace</tabTrigger>
+	<scope>source.c++</scope>
+</snippet>

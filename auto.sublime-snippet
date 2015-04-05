@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+auto
+]]></content>
+	<tabTrigger>auto</tabTrigger>
+	<scope>source.c++</scope>
+</snippet>

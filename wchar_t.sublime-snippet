@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+wchar_t
+]]></content>
+	<tabTrigger>wchar_t</tabTrigger>
+	<scope>source.c++</scope>
+</snippet>

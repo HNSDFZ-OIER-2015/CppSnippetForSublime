@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+typeid(${1})
+]]></content>
+	<tabTrigger>typeid</tabTrigger>
+	<scope>source.c++</scope>
+</snippet>

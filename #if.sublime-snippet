@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+#if ${1:CONDITION}
+	${2}
+#endif // ${1:CONDITION}
+]]></content>
+	<tabTrigger>if</tabTrigger>
+	<scope>source.c++</scope>
+</snippet>

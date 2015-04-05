@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+noexcept
+]]></content>
+	<tabTrigger>noexcept</tabTrigger>
+	<scope>source.c++</scope>
+</snippet>

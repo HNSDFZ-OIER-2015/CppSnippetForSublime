@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+class ${1}
+{
+	${2}
+}; // ${1}
+]]></content>
+	<tabTrigger>class</tabTrigger>
+	<scope>source.c++</scope>
+</snippet>

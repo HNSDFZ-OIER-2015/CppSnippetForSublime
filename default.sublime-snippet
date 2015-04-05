@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+default:
+{
+	${1}
+	break;
+}
+]]></content>
+	<tabTrigger>default</tabTrigger>
+	<scope>source.c++</scope>
+</snippet>

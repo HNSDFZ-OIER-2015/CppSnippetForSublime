@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+do{
+	${1}
+} while (${2})
+]]></content>
+	<tabTrigger>do</tabTrigger>
+	<scope>source.c++</scope>
+</snippet>
