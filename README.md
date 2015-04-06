@@ -11,7 +11,7 @@ For all platform:
 1. Get to the Package folder of Sublime Text:
 
 ```shell
-cd /[path to Sublime Text's config]/Package
+cd /[path to Sublime Text]/Packages
 ```
 
 2. Clone the repository:
