@@ -1,9 +1,9 @@
 <snippet>
 	<content><![CDATA[
 class ${1:/*name*/}{
-private:
+  private:
 	${2:/*private*/}	
-public:
+  public:
 	//For singleon:
 	${1}()=delete;
 	~${1}()=delete;
