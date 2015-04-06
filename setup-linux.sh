@@ -1,6 +1,6 @@
 #
 echo "Going to install..."
-cd ~/.config/sublime*/Package
+cd ~/.config/sublime*/Packages
 rm -rf ./CppSnippetForSublime
 mkdir CppSnippetForSublime
 #

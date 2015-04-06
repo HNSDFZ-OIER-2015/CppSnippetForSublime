@@ -1,9 +1,10 @@
 <snippet>
 	<content><![CDATA[
-catch(${1:/*exception*/}){
+#ifndef ${1:MARCO}
+#define ${1:MARCO}
 	${2:/*your code*/}
-}
+#endif // ${1:MARCO}
 ]]></content>
-	<tabTrigger>catch</tabTrigger>
+	<tabTrigger>ifndefdefine</tabTrigger>
 	<scope>source.c++</scope>
 </snippet>

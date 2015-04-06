@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+class ${1:/*name*/}{
+private:
+	${2:/*private*/}	
+public:
+	//For singleon:
+	${1}()=delete;
+	~${1}()=delete;
+	${1}(const ${1}&)=delete;
+	${1}(${1}&&)=delete;
+	${1} &operator=(const ${1}&)=delete;
+	//
+	${3:/*public*/}
+}; // singleton class ${1}
+]]></content>
+	<tabTrigger>singleton</tabTrigger>
+	<scope>source.c++</scope>
+</snippet>

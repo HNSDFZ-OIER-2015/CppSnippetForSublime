@@ -1,9 +1,9 @@
 <snippet>
 	<content><![CDATA[
-union ${1}
+union ${1:/*name*/}
 {
-	${2}
-}; // ${1}
+	${2:/*your code*/}
+}; // union ${1}
 ]]></content>
 	<tabTrigger>union</tabTrigger>
 	<scope>source.c++</scope>

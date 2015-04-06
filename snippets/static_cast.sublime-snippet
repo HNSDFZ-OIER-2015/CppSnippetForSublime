@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-static_cast<${1}>(${2})
+static_cast<${1:/*target type*/}>(${2:/*expression*/})
 ]]></content>
 	<tabTrigger>static_cast</tabTrigger>
 	<scope>source.c++</scope>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-alignas(${1})
+alignas(${1:/*expression or type*/})
 ]]></content>
 	<tabTrigger>alignas</tabTrigger>
 	<scope>source.c++</scope>

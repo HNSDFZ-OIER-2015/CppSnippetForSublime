@@ -1,9 +1,8 @@
 <snippet>
 	<content><![CDATA[
-struct ${1}
-{
-	${2}
-}; // ${1}
+struct ${1:/*name*/}{
+	${2:/*your code*/}
+}; // struct ${1}
 ]]></content>
 	<tabTrigger>struct</tabTrigger>
 	<scope>source.c++</scope>

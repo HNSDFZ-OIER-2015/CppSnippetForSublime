@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-decltype(${1})
+decltype(${1:/*expression*/})
 ]]></content>
 	<tabTrigger>decltype</tabTrigger>
 	<scope>source.c++</scope>

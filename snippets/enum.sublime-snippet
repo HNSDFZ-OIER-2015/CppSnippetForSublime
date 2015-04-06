@@ -1,8 +1,8 @@
 <snippet>
 	<content><![CDATA[
-enum{
-	${1}
-}
+enum ${1:/*name*/}{
+	${2:/*enums*/}
+}; // enum
 ]]></content>
 	<tabTrigger>enum</tabTrigger>
 	<scope>source.c++</scope>
