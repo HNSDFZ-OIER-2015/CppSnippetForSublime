@@ -1,9 +1,10 @@
 <snippet>
 	<content><![CDATA[
-[${1:/*capture list*/}](${2/*parameter list*/})->${3:/*return type*/}
+[${1:/*capture list*/}](${2:/*parameter list*/})->${3:/*return type*/}
 {
-	${4:/function body*/}
+	${4:/*function body*/}
 } // lambda end.
+
 ]]></content>
 	<tabTrigger>lambda</tabTrigger>
 	<scope>source.c++</scope>
