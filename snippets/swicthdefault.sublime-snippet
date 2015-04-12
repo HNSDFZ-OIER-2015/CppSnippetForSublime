@@ -1,6 +1,9 @@
 <snippet>
 	<content><![CDATA[
-default
+default:{
+	${1:/*your code*/}
+	break;
+}
 ]]></content>
 	<tabTrigger>default</tabTrigger>
 	<scope>source.c++</scope>
