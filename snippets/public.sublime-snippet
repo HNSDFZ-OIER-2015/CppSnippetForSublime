@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-public:
+public
 ]]></content>
 	<tabTrigger>public</tabTrigger>
 	<scope>source.c++</scope>

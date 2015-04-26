@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-private:
+private
 ]]></content>
 	<tabTrigger>private</tabTrigger>
 	<scope>source.c++</scope>

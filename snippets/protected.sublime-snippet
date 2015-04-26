@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-protected:
+protected
 ]]></content>
 	<tabTrigger>protected</tabTrigger>
 	<scope>source.c++</scope>
