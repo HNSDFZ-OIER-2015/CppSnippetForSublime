@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-template<${1:tempname} ${2:T}>
+template<${1:typename} ${2:T}>
 ]]></content>
 	<tabTrigger>template</tabTrigger>
 	<scope>source.c++</scope>
