@@ -3,8 +3,7 @@
 [${1:/*capture list*/}](${2:/*parameter list*/})->${3:/*return type*/}
 {
 	${4:/*function body*/}
-} // lambda end.
-
+} /*lambda end*/
 ]]></content>
 	<tabTrigger>lambda</tabTrigger>
 	<scope>source.c++</scope>
