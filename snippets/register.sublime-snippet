@@ -1,7 +1,7 @@
 <snippet>
-	<content><![CDATA[
+    <content><![CDATA[
 register
 ]]></content>
-	<tabTrigger>register</tabTrigger>
-	<scope>source.c++</scope>
+    <tabTrigger>register</tabTrigger>
+    <scope>source.c++</scope>
 </snippet>

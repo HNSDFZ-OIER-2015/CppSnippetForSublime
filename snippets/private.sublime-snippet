@@ -1,7 +1,7 @@
 <snippet>
-	<content><![CDATA[
+    <content><![CDATA[
 private
 ]]></content>
-	<tabTrigger>private</tabTrigger>
-	<scope>source.c++</scope>
+    <tabTrigger>private</tabTrigger>
+    <scope>source.c++</scope>
 </snippet>

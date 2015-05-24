@@ -1,7 +1,7 @@
 <snippet>
-	<content><![CDATA[
+    <content><![CDATA[
 override
 ]]></content>
-	<tabTrigger>override</tabTrigger>
-	<scope>source.c++</scope>
+    <tabTrigger>override</tabTrigger>
+    <scope>source.c++</scope>
 </snippet>

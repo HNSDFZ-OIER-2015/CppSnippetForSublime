@@ -1,7 +1,7 @@
 <snippet>
-	<content><![CDATA[
+    <content><![CDATA[
 sizeof(${1:/*expression or type*/})
 ]]></content>
-	<tabTrigger>sizeof</tabTrigger>
-	<scope>source.c++</scope>
+    <tabTrigger>sizeof</tabTrigger>
+    <scope>source.c++</scope>
 </snippet>

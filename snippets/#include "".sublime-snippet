@@ -1,7 +1,7 @@
 <snippet>
-	<content><![CDATA[
-#include "${1:/*header*/}"
+    <content><![CDATA[
+include "${1:/*header*/}"
 ]]></content>
-	<tabTrigger>include</tabTrigger>
-	<scope>source.c++</scope>
+    <tabTrigger>include</tabTrigger>
+    <scope>source.c++</scope>
 </snippet>

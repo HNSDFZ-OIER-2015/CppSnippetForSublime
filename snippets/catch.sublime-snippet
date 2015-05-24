@@ -1,9 +1,9 @@
 <snippet>
-	<content><![CDATA[
-catch(${1:/*exception*/}){
-	${2:/*your code*/}
+    <content><![CDATA[
+catch (${1:/*exception*/}) {
+    ${2:/*your code*/}
 }
 ]]></content>
-	<tabTrigger>catch</tabTrigger>
-	<scope>source.c++</scope>
+    <tabTrigger>catch</tabTrigger>
+    <scope>source.c++</scope>
 </snippet>

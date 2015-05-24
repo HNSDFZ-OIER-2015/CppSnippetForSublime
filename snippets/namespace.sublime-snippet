@@ -1,9 +1,9 @@
 <snippet>
-	<content><![CDATA[
-namespace ${1:/*name*/}{
-	${2:/*your code*/}
-} // namespace ${1}
+    <content><![CDATA[
+namespace ${1:/*name*/} {
+    ${2:/*your code*/}
+}  // namespace ${1}
 ]]></content>
-	<tabTrigger>namespace</tabTrigger>
-	<scope>source.c++</scope>
+    <tabTrigger>namespace</tabTrigger>
+    <scope>source.c++</scope>
 </snippet>

@@ -1,10 +1,9 @@
 <snippet>
-	<content><![CDATA[
-default:{
-	${1:/*your code*/}
-	break;
-}
+    <content><![CDATA[
+default:
+    ${1:/*your code*/}
+    break;
 ]]></content>
-	<tabTrigger>default</tabTrigger>
-	<scope>source.c++</scope>
+    <tabTrigger>default</tabTrigger>
+    <scope>source.c++</scope>
 </snippet>

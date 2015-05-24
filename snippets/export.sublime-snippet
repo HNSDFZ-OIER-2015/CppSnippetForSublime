@@ -1,7 +1,7 @@
 <snippet>
-	<content><![CDATA[
+    <content><![CDATA[
 export
 ]]></content>
-	<tabTrigger>export</tabTrigger>
-	<scope>source.c++</scope>
+    <tabTrigger>export</tabTrigger>
+    <scope>source.c++</scope>
 </snippet>

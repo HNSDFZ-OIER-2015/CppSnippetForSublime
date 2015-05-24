@@ -1,9 +1,9 @@
 <snippet>
-	<content><![CDATA[
-do{
-	${1:/*your code*/}
-}while(${2:/*condition*/}) // do ... while
+    <content><![CDATA[
+do {
+    ${1:/*your code*/}
+} while (${2:/*condition*/})  // do ... while
 ]]></content>
-	<tabTrigger>do</tabTrigger>
-	<scope>source.c++</scope>
+    <tabTrigger>do</tabTrigger>
+    <scope>source.c++</scope>
 </snippet>

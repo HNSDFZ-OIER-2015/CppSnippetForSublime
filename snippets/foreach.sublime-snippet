@@ -1,9 +1,9 @@
 <snippet>
-	<content><![CDATA[
-for(${1:auto} ${2:&e}:${3:/*range*/}){
-	${4:/*your code*/}
-} // for each
+    <content><![CDATA[
+for (${1:auto} ${2:&e} : ${3:/*range*/}) {
+    ${4:/*your code*/}
+}  // for each
 ]]></content>
-	<tabTrigger>foreach</tabTrigger>
-	<scope>source.c++</scope>
+    <tabTrigger>foreach</tabTrigger>
+    <scope>source.c++</scope>
 </snippet>

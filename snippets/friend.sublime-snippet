@@ -1,7 +1,7 @@
 <snippet>
-	<content><![CDATA[
+    <content><![CDATA[
 friend
 ]]></content>
-	<tabTrigger>friend</tabTrigger>
-	<scope>source.c++</scope>
+    <tabTrigger>friend</tabTrigger>
+    <scope>source.c++</scope>
 </snippet>

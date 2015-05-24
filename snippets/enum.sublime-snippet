@@ -1,9 +1,9 @@
 <snippet>
-	<content><![CDATA[
-enum ${1:/*name*/}{
-	${2:/*enums*/}
-}; // enum
+    <content><![CDATA[
+enum ${1:/*name*/} {
+    ${2}
+};  // enum ${1}
 ]]></content>
-	<tabTrigger>enum</tabTrigger>
-	<scope>source.c++</scope>
+    <tabTrigger>enum</tabTrigger>
+    <scope>source.c++</scope>
 </snippet>

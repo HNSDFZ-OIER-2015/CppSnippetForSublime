@@ -1,7 +1,7 @@
 <snippet>
-	<content><![CDATA[
+    <content><![CDATA[
 long long
 ]]></content>
-	<tabTrigger>long long</tabTrigger>
-	<scope>source.c++</scope>
+    <tabTrigger>long long</tabTrigger>
+    <scope>source.c++</scope>
 </snippet>

@@ -1,7 +1,7 @@
 <snippet>
-	<content><![CDATA[
+    <content><![CDATA[
 signed
 ]]></content>
-	<tabTrigger>signed</tabTrigger>
-	<scope>source.c++</scope>
+    <tabTrigger>signed</tabTrigger>
+    <scope>source.c++</scope>
 </snippet>

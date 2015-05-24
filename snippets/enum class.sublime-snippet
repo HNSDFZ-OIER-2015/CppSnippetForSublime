@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+enum class ${1:/*name*/} {
+    ${2}
+};  // enum class ${1}
+]]></content>
+    <tabTrigger>enum class</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>
