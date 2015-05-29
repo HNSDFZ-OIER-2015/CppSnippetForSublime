@@ -2,7 +2,7 @@
     <content><![CDATA[
 //
 // Copyright ${1:Year} ${2:Name}
-// ${3}
+//
 ]]></content>
     <tabTrigger>copyright</tabTrigger>
     <scope>source.c++</scope>
