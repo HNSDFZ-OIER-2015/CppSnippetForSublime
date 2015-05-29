@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+using std::cout;
+using std::cin;
+using std::endl;
+]]></content>
+    <tabTrigger>usingstdio</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>
