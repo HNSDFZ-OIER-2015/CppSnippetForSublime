@@ -1,9 +1,7 @@
 <snippet>
 	<content><![CDATA[
-try{
-	${1:/*code*/}
-}catch(${2:/*exception*/}){
-	${3:/*code for exception*/}
+try {
+	${1:/* your code */}
 }
 ]]></content>
 	<tabTrigger>try</tabTrigger>

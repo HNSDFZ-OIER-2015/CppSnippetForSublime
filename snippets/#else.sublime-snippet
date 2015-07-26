@@ -1,7 +1,9 @@
 <snippet>
     <content><![CDATA[
-else
+#else
+
 ]]></content>
     <tabTrigger>else</tabTrigger>
     <scope>source.c++</scope>
 </snippet>
+

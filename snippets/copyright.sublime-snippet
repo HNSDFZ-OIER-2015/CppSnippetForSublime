@@ -1,8 +1,10 @@
 <snippet>
     <content><![CDATA[
 //
-// Copyright ${1:Year} ${2:Name}
+// Copyright ${1:/* year */} ${2:/* name */}
 //
+
+
 ]]></content>
     <tabTrigger>copyright</tabTrigger>
     <scope>source.c++</scope>

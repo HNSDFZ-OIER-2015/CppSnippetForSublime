@@ -1,9 +1,10 @@
 <snippet>
     <content><![CDATA[
-enum class ${1:/*name*/} {
-    ${2}
+enum class ${1:/* name */} {
+    ${2:/* enums */}
 };  // enum class ${1}
+
 ]]></content>
-    <tabTrigger>enum class</tabTrigger>
+    <tabTrigger>enumclass</tabTrigger>
     <scope>source.c++</scope>
 </snippet>

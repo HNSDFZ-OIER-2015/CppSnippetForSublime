@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-reinterpret_cast<${1:/*target type*/}>(${2:/*expression*/})
+reinterpret_cast<${1:/* target type */}>(${2:/* expression */})
 ]]></content>
 	<tabTrigger>reinterpret_cast</tabTrigger>
 	<scope>source.c++</scope>

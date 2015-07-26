@@ -1,8 +1,7 @@
 <snippet>
     <content><![CDATA[
-#pragma ${1:PARAMETERS}
-
+sizeof...(${1:/* expression */})
 ]]></content>
-    <tabTrigger>pragma</tabTrigger>
+    <tabTrigger>sizeof...</tabTrigger>
     <scope>source.c++</scope>
 </snippet>

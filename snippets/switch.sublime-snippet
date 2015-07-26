@@ -1,8 +1,9 @@
 <snippet>
     <content><![CDATA[
-switch (${1:/*target*/}) {
-    ${2:/*your code*/}
-}  // switch
+switch (${1:/* target */}) {
+    ${2:/* your code */}
+}  // switch to ${1}
+
 ]]></content>
     <tabTrigger>switch</tabTrigger>
     <scope>source.c++</scope>

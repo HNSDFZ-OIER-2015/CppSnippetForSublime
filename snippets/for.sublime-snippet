@@ -1,10 +1,11 @@
 <snippet>
     <content><![CDATA[
-for (${1:/*start*/};
-     ${2:/*condition*/};
-     ${3:/*process*/}) {
-    ${4:/*your code*/}
+for (${1:/* initlization */};
+     ${2:/* condition */};
+     ${3:/* process */}) {
+    ${4:/* your code */}
 }  // for
+
 ]]></content>
     <tabTrigger>for</tabTrigger>
     <scope>source.c++</scope>

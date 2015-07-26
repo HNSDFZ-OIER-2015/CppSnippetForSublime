@@ -1,6 +1,7 @@
 <snippet>
 	<content><![CDATA[
-throw ${1:/*exception*/}
+throw ${1:/* exception */};
+
 ]]></content>
 	<tabTrigger>throw</tabTrigger>
 	<scope>source.c++</scope>

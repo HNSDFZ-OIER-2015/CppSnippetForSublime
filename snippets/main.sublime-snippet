@@ -1,9 +1,10 @@
 <snippet>
     <content><![CDATA[
-int main(int argc, char **argv) {
-    ${1}
+int main(${1:int argc, char **argv}) {
+    ${2:/* your code */}
     return 0;
 }  // function main
+
 ]]></content>
     <tabTrigger>main</tabTrigger>
     <scope>source.c++</scope>

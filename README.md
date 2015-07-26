@@ -1,13 +1,15 @@
 # Introduction
-CppSnippetForSublime included all the snippets of C++ keywords,
+These snippets provided C++ keywords autocompletion.
 
-in order to improve Sublime Text's autocompletion.
+Check ```preview.cpp``` for styles.
+
+[](./preview-1.png)
 
 # Install
 First of all, get to the sublime packages's floder:
 
 ```shell
-cd [path to sublime's config]/Packages/
+cd [path to sublime]/Packages/
 ```
 
 Then clone the repo.

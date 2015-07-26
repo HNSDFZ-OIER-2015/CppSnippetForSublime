@@ -1,8 +1,9 @@
 <snippet>
     <content><![CDATA[
-ifndef ${1:MARCO}
-    ${2:/*your code*/}
-#endif // ${1:MARCO}
+#ifndef ${1:MARCO}
+    ${2:/* your code */}
+#endif  // IFNDEF ${1:MARCO}
+
 ]]></content>
     <tabTrigger>ifndef</tabTrigger>
     <scope>source.c++</scope>

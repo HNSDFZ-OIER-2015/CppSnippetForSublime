@@ -1,10 +1,10 @@
 <snippet>
     <content><![CDATA[
- else {
+do {
     ${1:/* your code */}
-}
+} while (${2:/* condition */})  // do ... while
 
 ]]></content>
-    <tabTrigger>else</tabTrigger>
+    <tabTrigger>dowhile</tabTrigger>
     <scope>source.c++</scope>
 </snippet>

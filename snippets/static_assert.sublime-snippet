@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-static_assert(${1:/*condition*/})
+static_assert(${1:/* condition */})
 ]]></content>
     <tabTrigger>static_assert</tabTrigger>
     <scope>source.c++</scope>

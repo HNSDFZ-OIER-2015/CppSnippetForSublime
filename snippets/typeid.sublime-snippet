@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-typeid(${1:/*expression or type*/})
+typeid(${1:/* expression or type */})
 ]]></content>
 	<tabTrigger>typeid</tabTrigger>
 	<scope>source.c++</scope>

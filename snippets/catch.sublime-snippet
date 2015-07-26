@@ -1,7 +1,7 @@
 <snippet>
     <content><![CDATA[
-catch (${1:/*exception*/}) {
-    ${2:/*your code*/}
+ catch (${1:/* exception */}) {
+    ${2:/* your code */}
 }
 ]]></content>
     <tabTrigger>catch</tabTrigger>
