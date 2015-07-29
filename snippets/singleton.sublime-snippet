@@ -2,7 +2,7 @@
     <content><![CDATA[
 class ${1:/* name */} {
   public:
-    //This is a singleon:
+    //This is a singleton:
     ${1}() = delete;
     ~${1}() = delete;
     ${1}(const ${1}&) = delete;
