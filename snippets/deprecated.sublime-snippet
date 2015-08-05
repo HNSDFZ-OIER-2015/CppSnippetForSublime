@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[
+deprecated
+]]></content>
+    <tabTrigger>deprecated</tabTrigger>
+    <scope>source.c++</scope>
+</snippet>
