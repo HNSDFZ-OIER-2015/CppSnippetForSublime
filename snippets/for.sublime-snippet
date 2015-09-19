@@ -5,7 +5,6 @@ for (${1:/* initlization */};
      ${3:/* process */}) {
     ${4:/* your code */}
 }  // for
-
 ]]></content>
     <tabTrigger>for</tabTrigger>
     <scope>source.c++</scope>

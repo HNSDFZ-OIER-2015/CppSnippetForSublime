@@ -1,7 +1,6 @@
 <snippet>
 	<content><![CDATA[
 typedef ${1:/* origin type */} ${2:/* new name */};
-
 ]]></content>
 	<tabTrigger>typedef</tabTrigger>
 	<scope>source.c++</scope>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-class ${1:/* name */} {
+class ${1:/* name */} final {
   public:
     //This is a singleton:
     ${1}() = delete;
@@ -14,7 +14,6 @@ class ${1:/* name */} {
   private:
     ${3:/* private code */}
 };  // singleton class ${1}
-
 ]]></content>
     <tabTrigger>singleton</tabTrigger>
     <scope>source.c++</scope>

@@ -9,7 +9,6 @@ class ${1:/* name */} {
   private:
     ${3:/* private code */}
 };  // class ${1}
-
 ]]></content>
     <tabTrigger>class</tabTrigger>
     <scope>source.c++</scope>

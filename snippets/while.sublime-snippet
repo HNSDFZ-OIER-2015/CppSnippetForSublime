@@ -2,7 +2,7 @@
 	<content><![CDATA[
 while (${1:/*condition*/}) {
 	${2:/* your code */}
-} // while
+}   // while
 
 ]]></content>
 	<tabTrigger>while</tabTrigger>

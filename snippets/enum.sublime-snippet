@@ -3,7 +3,6 @@
 enum ${1:/* name */} {
     ${2:/* enums */}
 };  // enum ${1}
-
 ]]></content>
     <tabTrigger>enum</tabTrigger>
     <scope>source.c++</scope>

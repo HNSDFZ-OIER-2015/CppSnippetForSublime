@@ -1,7 +1,6 @@
 <snippet>
 	<content><![CDATA[
 template <${1:typename T}>
-
 ]]></content>
 	<tabTrigger>template</tabTrigger>
 	<scope>source.c++</scope>
