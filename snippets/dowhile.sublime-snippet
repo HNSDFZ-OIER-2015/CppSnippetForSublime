@@ -3,7 +3,6 @@
 do {
     ${1:/* your code */}
 } while (${2:/* condition */})  // do ... while
-
 ]]></content>
     <tabTrigger>dowhile</tabTrigger>
     <scope>source.c++</scope>

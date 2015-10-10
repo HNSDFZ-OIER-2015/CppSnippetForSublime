@@ -3,7 +3,6 @@
 case ${1:/* value */}:
     ${2:/* your code */}
     break;
-
 ]]></content>
     <tabTrigger>case</tabTrigger>
     <scope>source.c++</scope>

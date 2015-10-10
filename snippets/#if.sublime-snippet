@@ -3,7 +3,6 @@
 #if ${1:CONDITION}
     ${2:/* your code */}
 #endif  // IF ${1:CONDITION}
-
 ]]></content>
     <tabTrigger>if</tabTrigger>
     <scope>source.c++</scope>
