@@ -1,7 +1,6 @@
 <snippet>
     <content><![CDATA[
-goto ${1:/* somewhere */};
-
+goto ${1:/* somewhere */}
 ]]></content>
     <tabTrigger>goto</tabTrigger>
     <scope>source.c++</scope>

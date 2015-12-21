@@ -1,12 +1,12 @@
 <snippet>
     <content><![CDATA[
 class ${1:/* name */} {
-  public:
+ public:
     ${1}();
     ~${1}();
 
     ${2:/* your code */}
-  private:
+ private:
     ${3:/* private code */}
 };  // class ${1}
 ]]></content>

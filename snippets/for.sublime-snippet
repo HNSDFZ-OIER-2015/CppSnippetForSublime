@@ -1,8 +1,6 @@
 <snippet>
     <content><![CDATA[
-for (${1:/* initlization */};
-     ${2:/* condition */};
-     ${3:/* process */}) {
+for (${1:/* initlization */}; ${2:/* condition */}; ${3:/* process */}) {
     ${4:/* your code */}
 }  // for
 ]]></content>

@@ -1,7 +1,6 @@
 <snippet>
     <content><![CDATA[
 #undef ${1:MARCO}
-
 ]]></content>
     <tabTrigger>undef</tabTrigger>
     <scope>source.c++</scope>
